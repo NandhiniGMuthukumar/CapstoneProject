@@ -8,7 +8,8 @@ In this case study, I will perform many real-world tasks of a data analyst at a 
 
 ### Quick Access
 
-**Data Source**: https://divvy-tripdata.s3.amazonaws.com/index.html [accessed Dec 11, 2023]
+**Data Source**: ![Link](https://divvy-tripdata.s3.amazonaws.com/index.html) ,accessed Dec 11, 2023.
+
 Below analysis is for 2023 trip data(2023, Jan - 2023, Apr), First quarter.
 
 ### Background
@@ -59,8 +60,7 @@ How do annual members and casual riders use Cyclistic bikes differently?
 
 ### Data Source
 
-I will use Cyclistic’s historical trip data to analyze and identify trends from Jan 2023 to Apr 2023 which can be downloaded from divvy_tripdata. The 
-data has been made available by Motivate International Inc. under this license. This is public data that can be used to explore how different customer types are using Cyclistic bikes. But note that data-privacy issues prohibit from using riders’ personally identifiable information. This means that we won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
+I will use Cyclistic’s historical trip data to analyze and identify trends from Jan 2023 to Apr 2023 which can be downloaded from divvy_tripdata. The data has been made available by Motivate International Inc. under this license. This is public data that can be used to explore how different customer types are using Cyclistic bikes. But note that data-privacy issues prohibit from using riders’ personally identifiable information. This means that we won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
 
 ### Data Organization
 
@@ -117,6 +117,8 @@ SQL Query:
 10. Total 37267 rows are deleted in this step.
 
 ## Analysis
+
+**Visualization**: ![Tableau](https://public.tableau.com/app/profile/nandhini.muthukumar/viz/CapstoneProject_17023626470100/AvgRideWeek)
 
 The data is stored appropriately and is now prepared for analysis. I queried multiple relevant tables for the analysis and visualized them in Tableau.
 The analysis question is: How do annual members and casual riders use Cyclistic bikes differently?
